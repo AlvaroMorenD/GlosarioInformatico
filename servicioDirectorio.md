@@ -8,4 +8,6 @@ Un Servicio de Directorio es un sistema que almacena, organiza y gestiona inform
 - Autenticación centralizada → Los usuarios pueden acceder a los recursos con una única cuenta.
 - Control de acceso → Define qué usuarios pueden acceder a qué recursos.
 - Escalabilidad → Permite administrar miles o millones de registros.
-- Protocolos estándar → Utiliza LDAP (Lightweight Directory Access Protocol) para consultas y modificaciones.
+- Protocolos estándar → Utiliza **LDAP** (Lightweight Directory Access Protocol) para consultas y modificaciones.
+
+  ##### Unos de los SW más reconocidos son Active Directory de windows y OpenLDAP por Ubuntu
