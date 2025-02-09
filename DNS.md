@@ -1,3 +1,3 @@
 # DNS (DOMAIN NAME SERVER) 
 
-Los DNS se encargan de traducir los nombres de dominios en ip y viceversa. Los servidores lo utilizan para conectarse entre sí. Es un sistema distribuido que permite que las páginas web sean accesibles por nombres fáciles de recordar, en lugar de tener que utilizar direcciones IP complicadas
+Los DNS se encargan de traducir los nombres de dominios en ip y viceversa. Los servidores lo utilizan para conectarse entre sí. Es un sistema que permite que las páginas web sean accesibles por nombres fáciles de recordar, en lugar de tener que utilizar direcciones IP complicadas
