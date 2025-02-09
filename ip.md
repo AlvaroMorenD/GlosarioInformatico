@@ -1,5 +1,8 @@
-Una dirección **IP** es un número único asignado a cada dispositivo (ordenador, teléfono, servidor, etc.) que se conecta a una red. Esta dirección permite que los dispositivos se encuentren y se comuniquen entre sí a través de Internet o redes locales.
-Las **IPs** se pueden asignar tanto estáticamente (el usuario introduce sus datos manualmente) o dinamicamente (se necesita un servidor **DHCP** que asigne las ips automáticamente
+-Una dirección **IP** es un número único asignado a cada dispositivo (ordenador, teléfono, servidor, etc.) que se conecta a una red. Esta dirección permite que los dispositivos se encuentren y se comuniquen entre sí a través de Internet o redes locales.
+
+-Las **IPs** se pueden asignar tanto estáticamente (el usuario introduce sus datos manualmente) o dinamicamente (se necesita un servidor **DHCP** que asigne las ips automáticamente
+
+-Existen las ips públicas y privadas. 
 
 ## Tipos de direcciones IP
 
