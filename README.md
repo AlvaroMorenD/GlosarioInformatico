@@ -9,8 +9,6 @@ Bienvenido al **Glosario Informático**. Este repositorio contiene una lista de 
 - [URL (Localizador Uniforme de Recursos)](url.md)
 - [Puerto (21, 22, 80, 443)](puertos.md)
 - [Servicio de Directorio](servicioDirectorio.md)
-- [OpenLDAP](openldap.md)
-- [Active Directory](#Activedirectory.md)
 - [Diferencia entre HTTP y HTTPS](httpYhttps.md)
 - [Servicio DNS (Sistema de Nombres de Dominio)](DNS.md)
 - [Servicio Web (Apache, Nginx)](servicioWeb.md)
