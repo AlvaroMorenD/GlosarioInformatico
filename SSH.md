@@ -9,4 +9,4 @@ Es un protocolo de red utilizado para acceder de manera remota a dispositivos y 
 
 - No tiene interfaz gráfica, las tareas se ejecutan en un terminal remotamenente
 
-- Se ejecurtan comandos como si estuviera trabajando en la máquina física
+- Se ejecurtan comandos como si se estuviera trabajando en la máquina física
