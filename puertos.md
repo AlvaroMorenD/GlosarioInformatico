@@ -1,4 +1,4 @@
-# PUERTO
+# Puertos
 
 - Un **puerto** es un número que permite que diferentes aplicaciones en una red usen la misma dirección IP sin interferir entre sí. 
 
@@ -7,6 +7,8 @@
 - Cada servicio tendrá un puerto predeterminado destinado.
 
 - Los puertos son modificables
+
+## Ejemplos de puertos más comunes
 
 - **Puerto 21**: Usado para FTP (transferencia de archivos).
 - **Puerto 22**: Usado para SSH (conexiones seguras).
