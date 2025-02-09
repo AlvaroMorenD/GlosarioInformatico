@@ -14,4 +14,4 @@ Es una SW de servicios en la nube que ofrece herramientas para computación, alm
 
 ### Desventajas:
 - Dificil de utilizar
-- Mayor Costos si no se gestionan bien los recursos.
+- Mayor costos si no se gestionan bien los recursos.
