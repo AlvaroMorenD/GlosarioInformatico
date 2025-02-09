@@ -8,11 +8,11 @@ Es uno de los más antiguos y ampliamente utilizados. Su arquitectura está basa
 
 ### Ventajas:
 
-Tiene una configurabilidad bastante amplia
+- Tiene una configurabilidad bastante amplia
 
-Tiene bastante compatibilidad
+- Tiene bastante compatibilidad
 
-Gran soporte amplio
+- Gran soporte amplio
 
 ### Desventajas:
 
@@ -24,14 +24,14 @@ Nginx es un servidor web más moderno, diseñado para ser ligero y altamente efi
 
 ### Ventajas:
 
-Tiene un rendimiento más alto
+- Tiene un rendimiento más alto
 
-Bajo consumo de recursos
+- Bajo consumo de recursos
 
-Interfaz atractiva
+- Interfaz atractiva
 
 ### Desventajas:
   
-Tiene configuración más compleja; su configuración y gestión pueden ser más complicadas para principiantes.
+- Tiene configuración más compleja; su configuración y gestión pueden ser más complicadas para principiantes.
 
-Menos módulos: En comparación con Apache, Nginx tiene menos módulos disponibles y, por lo tanto, menos opciones de personalización directa.
+- Menos módulos: En comparación con Apache, Nginx tiene menos módulos disponibles, por lo tanto, menos opciones de personalización directa.
