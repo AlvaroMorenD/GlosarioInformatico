@@ -4,6 +4,8 @@ Los protocolos son un conjunto de reglas que siempre actúan con el mismo **modu
 
 - TCP/IP : protocolo que se utiliza a día de hoy para el internet
 
+- UDP: para transmision de datos
+
 - FTP: enviar archivos
 
 - SSH: conexion remota
@@ -12,5 +14,5 @@ Los protocolos son un conjunto de reglas que siempre actúan con el mismo **modu
 
 - DNS: para resolucion de nombres de dominio
 
-- etc.... 
+- ETC...
 
