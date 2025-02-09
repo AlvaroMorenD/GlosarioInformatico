@@ -1,4 +1,4 @@
-#Puerto
+# PUERTO
 
 Un **puerto** es un número que permite que diferentes aplicaciones en una red usen la misma dirección IP sin interferir entre sí. Algunos puertos comunes incluyen:
 
