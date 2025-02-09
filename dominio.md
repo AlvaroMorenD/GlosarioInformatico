@@ -14,7 +14,7 @@ Un **dominio** es el nombre que se asigna a una dirección IP para facilitar la 
 
 3. El navegador se conecta al servidor web
 
-- Usando la dirección IP proporcionada, el navegador se conecta al servidor y solicita la página web.
+- Usando la dirección IP destinada, el navegador se conecta al servidor y solicita la página web.
 
 4. El servidor web responde con el contenido del sitio
 
