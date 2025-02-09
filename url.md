@@ -4,12 +4,13 @@ Una **URL (Localizador Uniforme de Recursos)** es la dirección completa que se 
 
 ## Una URL está formada por
 
-- Protocolo:	Define cómo se accederá al recurso.	https://
+- Protocolo:	Define cómo se accederá al recurso. *Por ejemplo	https:// o http*
+   
+- Subdominio:	Parte opcional que antecede al dominio principal. *Por ejemplo	www.*
 
-- Subdominio:	Parte opcional que antecede al dominio principal.	www.
+- Dominio:	Nombre del sitio web, hablado en el anterior .md.
 
-- Dominio:	Nombre del sitio web.	ejemplo.com
+- Puerto:	Indica un puerto específico para la conexión. *Por ejemplo	:8080*. Es opcional 
 
-- Puerto:	Indica un puerto específico para la conexión.	:8080 (opcional)
+- Ruta:	Ubicación específica del recurso dentro del sitio. Por ejemplo	*/blog/texto.html*
 
-- Ruta:	Ubicación específica del recurso dentro del sitio.	/blog/articulo1.html
