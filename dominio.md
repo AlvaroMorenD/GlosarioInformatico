@@ -6,16 +6,16 @@ Un **dominio** es el nombre que se asigna a una dirección IP para facilitar la 
 
 1. El navegador consulta el DNS (Sistema de Nombres de Dominio)
 
-El navegador pregunta a un servidor DNS cuál es la dirección IP asociada al dominio www.ejemplo.com.
+- El navegador pregunta a un servidor DNS cuál es la dirección IP asociada al dominio www.ejemplo.com.
 
 2. El DNS responde con la dirección IP
 
-El servidor DNS devuelve una dirección IP, como 192.168.1.100, que corresponde al servidor donde está alojado el sitio web.
+- El servidor DNS devuelve una dirección IP, como 192.168.1.100, que corresponde al servidor donde está alojado el sitio web.
 
 3. El navegador se conecta al servidor web
 
-Usando la dirección IP proporcionada, el navegador se conecta al servidor y solicita la página web.
+- Usando la dirección IP proporcionada, el navegador se conecta al servidor y solicita la página web.
 
 4. El servidor web responde con el contenido del sitio
 
-Finalmente, el servidor envía la página web al navegador para que podamos visualizarla en pantalla.
+- Finalmente, el servidor envía la página web al navegador para que podamos visualizarla en pantalla.
