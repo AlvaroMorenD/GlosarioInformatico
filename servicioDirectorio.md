@@ -10,4 +10,4 @@ Un Servicio de Directorio es un sistema que almacena, organiza y gestiona inform
 - Escalabilidad → Permite administrar miles o millones de registros.
 - Protocolos estándar → Utiliza **LDAP** (Lightweight Directory Access Protocol) para consultas y modificaciones.
 
-  ##### Unos de los SW más reconocidos son Active Directory de windows y OpenLDAP por Ubuntu
+  #### Unos de los SW más reconocidos son Active Directory de windows y OpenLDAP por Ubuntu
