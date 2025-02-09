@@ -3,7 +3,7 @@
 Es una SW de servicios en la nube que ofrece herramientas para computación, almacenamiento, bases de datos, redes y más. Permite a las empresas escalar y gestionar recursos sin necesidad de infraestructura física.
 
 ## Características principales:
-- Escalabilidad: Ajuste de recursos según demanda
+- Escalabilidad: Ajuste de recursos según su demanda
 - Modelo de pago por uso: Solo pagas por lo que usas
 - Alta disponibilidad: Infraestructura global con redundancia
 - Cifrado de datos y cumplimiento de normativas
