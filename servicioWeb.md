@@ -16,7 +16,7 @@ Es uno de los más antiguos y ampliamente utilizados. Su arquitectura está basa
 
 ### Desventajas:
 
-El rendimiento: En servidores con muchas conexiones simultáneas, Apache puede consumir más recursos porque maneja cada solicitud con un proceso o hilo independiente, lo que puede ser menos eficiente.
+- El rendimiento: En servidores con muchas conexiones simultáneas, Apache puede consumir más recursos porque maneja cada solicitud con un proceso o hilo independiente, lo que puede ser menos eficiente.
 
 ## Nginx
 
